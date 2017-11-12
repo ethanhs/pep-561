@@ -6,5 +6,6 @@ setup(
     author="Ethan Smith",
     author_email="ethan@ethanhs.me",
     version="0.1",
-    typed="inline"
+    package_data={"typedpkg": ["py.typed"]},
+    packages=["typedpkg"]
 )

@@ -4,4 +4,4 @@ This is a sample package that uses distutils to demonstrate the new metadata fea
 
 # License
 
-This package doesn't do anything orignal, but just in case, any original work within is licensed under the [CC0](https://wiki.creativecommons.org/wiki/CC0)
+This package doesn't do anything original, but just in case, any original work within is licensed under the [CC0](https://wiki.creativecommons.org/wiki/CC0)

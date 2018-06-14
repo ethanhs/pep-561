@@ -1,6 +1,8 @@
 # About
 
-This is a sample package that uses distutils to demonstrate the new metadata feature of [PEP 561](https://www.python.org/dev/peps/pep-0561/).
+This is the main repository for tracking issues related to [PEP 561](https://www.python.org/dev/peps/pep-0561/).
+
+This repo also includes a copy of the PEP, and a sample typed package.
 
 # License
 
